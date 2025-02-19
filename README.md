@@ -18,3 +18,15 @@ Boost your Linux system's performance, free up disk space, and keep it clutter-f
 2. Make it executable:
    ```bash
    chmod +x cleaner.sh
+
+## Screenshots
+
+### 1️⃣ Main Menu
+![Main Menu](screenshot1.png)
+
+### 2️⃣ Scan & Junk Summary
+![Scan Summary](screenshot2.png)
+
+### 3️⃣ Cleanup in Progress
+![Cleanup](screenshot3.png)
+
