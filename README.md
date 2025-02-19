@@ -21,12 +21,13 @@ Boost your Linux system's performance, free up disk space, and keep it clutter-f
 
 ## Screenshots
 
-### 1️⃣ Main Menu
-![Main Menu](screenshot1.png)
+### Main Menu
+![Main Menu](1.png)
 
-### 2️⃣ Scan & Junk Summary
-![Scan Summary](screenshot2.png)
+### Scan & Junk Summary
+![Scan Summary](2.png)
 
-### 3️⃣ Cleanup in Progress
-![Cleanup](screenshot3.png)
+### Cleanup in Progress
+![Cleanup](3.png)
+
 
